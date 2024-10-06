@@ -1,0 +1,39 @@
+{
+  "name": "wemai-prober",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^5.1.0",
+    "@iconify-json/ic": "^1.2.0",
+    "@mdui/icons": "^1.0.2",
+    "@nuxt/icon": "^1.5.3",
+    "@nuxt/image": "^1.8.1",
+    "@nuxtjs/color-mode": "^3.5.1",
+    "@nuxtjs/robots": "^4.1.7",
+    "@nuxtjs/sitemap": "^6.1.1",
+    "@pinia/nuxt": "^0.5.5",
+    "@vueuse/core": "^11.1.0",
+    "@vueuse/nuxt": "^11.1.0",
+    "axios": "^1.7.7",
+    "mdui": "^2.1.2",
+    "nuxt": "^3.13.0",
+    "nuxt-ssr-lit": "^1.6.26",
+    "nuxt-umami": "^3.0.1",
+    "nuxt-vitalizer": "^0.10.0",
+    "pinia": "^2.2.4",
+    "pinia-plugin-persistedstate": "^4.1.1",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^0.63.3",
+    "unocss": "^0.63.3"
+  }
+}
