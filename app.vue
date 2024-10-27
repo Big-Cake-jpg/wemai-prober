@@ -100,4 +100,9 @@ useSeoMeta({
 :not(:defined) {
   visibility: hidden;
 }
+
+body {
+  font-family: "Noto Sans SC";
+  font-display: optional;
+}
 </style>
